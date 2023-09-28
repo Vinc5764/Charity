@@ -18,8 +18,6 @@ const Testimonial = () => {
         </div>
         <img src={loop} alt="" className="h-8 w-10" />
       </div>
-
-      {/* reviews */}
       <div>
         <ReviewCard />
       </div>
