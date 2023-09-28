@@ -69,7 +69,7 @@ const ReviewCard = () => {
               <h1 className="pt-4 font-['Sora'] text-[1.5rem]">
                 {review.category}
               </h1>
-              <p className="my-5">" {review.comment}</p>
+              <p className="my-5">{review.comment}</p>
               <div className="flex items-center gap-4">
                 <img src={review.photo} alt="" className="h-10" />
                 <div>
