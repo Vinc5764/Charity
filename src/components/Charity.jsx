@@ -7,7 +7,7 @@ import Beam from "../assets/Beam.svg";
 const Charity = () => {
   return (
     <div
-      className="mb-8 flex flex-col px-2 pt-16 lg:flex-row-reverse lg:pr-36"
+      className="mb-8 flex flex-col px-2 pt-16 lg:flex-row-reverse  xl:pr-36 lg:pr-8"
       id="Charity"
     >
       <img className="w-full pb-4 pl-4 lg:w-5/12" src={Two} alt="Charity" />

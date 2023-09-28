@@ -21,7 +21,11 @@ const Gallery = () => {
 
       {/* Single Column */}
       <div className="col-span-1  lg:mr-[-4rem]">
-        <img src={Ty} alt="Image 3" className="lg:ml-[-7rem] lg:h-[20rem]" />
+        <img
+          src={Ty}
+          alt="Image 3"
+          className=" lg:ml-[-5rem] xl:ml-[-7rem] xl:h-[20rem]"
+        />
       </div>
 
       {/* Repeat the above structure for the remaining images */}

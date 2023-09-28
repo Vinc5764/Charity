@@ -35,7 +35,7 @@ const Footer = () => {
             type="text"
             name="email"
             id="email"
-            className="h-16  lg:w-[29rem]"
+            className="h-16 text-justify  placeholder:font-['Playfair_Display']  placeholder:text-base placeholder:font-medium placeholder:leading-10 lg:w-[29rem]"
           />
           <button className="h-10 w-24 bg-[#219D80]">Subscribe</button>
         </form>
